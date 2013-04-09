@@ -1,0 +1,1 @@
+hints_man3.vba: call delete('/home/praddy/.vim/ftplugin/c/hints_man3.vim')
